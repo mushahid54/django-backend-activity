@@ -1,0 +1,13 @@
+*.log
+*.DS_Store
+*.pyc
+__pycache__*
+.idea/*
+media/*
+config/settings/secrets.json
+dumps/*
+dumps_new/*
+staticfiles/*
+*.rdb
+*.ini
+/logfile
