@@ -1,6 +1,6 @@
-=========================
-django-backend-activity
-========================
+
+                                 django-backend-activity
+====================================================================================
 I have created this task using Django and Django rest framework
 
 Setup project environment
